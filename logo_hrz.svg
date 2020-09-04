@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="561" height="102" viewBox="0 0 561 102">
+  <g>
+    <g>
+      <rect width="377" height="89" x="150.5" y="6.5" fill="none"/>
+      <text font-size="0" style="white-space:pre">
+        <tspan x="162" y="83" fill="rgb(130,130,130)" font-family="Berlin Sans FB Demi" font-size="90" font-weight="600" style="white-space:pre;text-transform:none" letter-spacing="5">Dollar</tspan> <tspan x="162" y="0" fill="rgb(31,194,131)" font-family="Berlin Sans FB Demi" font-size="90" font-weight="600" style="white-space:pre;text-transform:none" letter-spacing="5">i</tspan> <tspan x="162" y="0" fill="rgb(51,51,51)" font-family="Berlin Sans FB Demi" font-size="90" font-weight="600" style="white-space:pre;text-transform:none" letter-spacing="5">t</tspan> <tspan x="162" y="0" fill="rgb(239,100,125)" font-family="Berlin Sans FB Demi" font-size="90" font-weight="600" style="white-space:pre;text-transform:none" letter-spacing="5">o</tspan>
+      </text>
+    </g>
+    <g>
+      <path fill="rgb(107,207,199)" fill-rule="evenodd" d="M20 3.5h104c11.03830049 0 20 8.96169951 20 20v49c0 11.03830049-8.96169951 20-20 20H20c-11.03830049 0-20-8.96169951-20-20v-49c0-11.03830049 8.96169951-20 20-20z"/>
+      <rect width="144" height="31.308" x="0" y="15.812" fill="rgb(242,242,242)"/>
+      <ellipse cx="90.907" cy="69.283" fill="rgb(31,194,131)" rx="6.493" ry="5.98"/>
+      <ellipse cx="108.095" cy="69.283" fill="rgb(255,255,255)" rx="6.493" ry="5.98"/>
+      <ellipse cx="124.902" cy="69.283" fill="rgb(239,84,125)" rx="6.493" ry="5.98"/>
+    </g>
+  </g>
+</svg>
